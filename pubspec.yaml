@@ -53,10 +53,10 @@ dependencies:
   # Plugins
   url_launcher: ^6.2.1
   flutter_keyboard_visibility_temp_fork: ^0.1.1
-  quill_native_bridge:
-    git:
-      url: https://github.com/WaseemAshraf1/quill-native-bridge.git
-      ref: xclip
+  quill_native_bridge: ^11.1.0
+#    git:
+#      url: https://github.com/WaseemAshraf1/quill-native-bridge.git
+#      ref: xclip
 #      path: quill_native_bridge
 
 dev_dependencies:
