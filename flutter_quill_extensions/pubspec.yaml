@@ -10,7 +10,7 @@ topics: [editor, text, rich-text-editor, quill, flutter-quill]
 platforms:
   android:
   ios:
-#  linux:
+  linux:
   macos:
   web:
   windows:
